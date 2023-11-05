@@ -33,4 +33,8 @@ The name of the log file to use
 {% swagger-parameter in="body" name="log_file_mode" type="String" %}
 The mode to use when opening the log file
 {% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="timestamps_timezone" type="String" %}
+The pyqtz timezone to use for timestamps.
+{% endswagger-parameter %}
 {% endswagger %}
