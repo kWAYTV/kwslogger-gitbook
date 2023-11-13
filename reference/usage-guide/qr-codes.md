@@ -2,9 +2,7 @@
 
 
 
-## Create & save a QR Code
-
-Create qr codes with just 1 call.
+Create & save a QR Code.
 
 ```python
 from kwslogger import Logger
