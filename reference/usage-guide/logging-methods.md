@@ -4,8 +4,6 @@
 
 ## Log messages
 
-Example:
-
 ```python
 from kwslogger import Logger
 

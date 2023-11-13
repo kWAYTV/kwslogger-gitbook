@@ -2,8 +2,6 @@
 
 
 
-## Create a progress bar
-
 Create progress bars with ease.
 
 ```python

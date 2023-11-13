@@ -2,8 +2,6 @@
 
 
 
-## Create & print a logo
-
 Create logos with just 1 function
 
 ```python
