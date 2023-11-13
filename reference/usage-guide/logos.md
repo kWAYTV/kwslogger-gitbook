@@ -2,10 +2,6 @@
 
 
 
-{% hint style="info" %}
-This assumes you've already created a logger instance called _logger_.
-{% endhint %}
-
 ## Create & print a logo
 
 Create logos with just 1 function

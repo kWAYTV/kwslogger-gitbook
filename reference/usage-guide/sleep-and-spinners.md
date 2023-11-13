@@ -2,10 +2,6 @@
 
 
 
-{% hint style="info" %}
-This assumes you've already created a logger instance called _logger_.
-{% endhint %}
-
 
 
 ## Animated Sleeps

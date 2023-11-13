@@ -12,3 +12,4 @@
   * [💎 Log Levels](reference/usage-guide/log-levels.md)
   * [🍫 Progress Bars](reference/usage-guide/progress-bars.md)
   * [🆎 Logos](reference/usage-guide/logos.md)
+  * [🔗 QR Codes](reference/usage-guide/qr-codes.md)

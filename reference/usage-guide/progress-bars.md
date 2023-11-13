@@ -2,10 +2,6 @@
 
 
 
-{% hint style="info" %}
-This assumes you've already created a logger instance called _logger_.
-{% endhint %}
-
 ## Create a progress bar
 
 Create progress bars with ease.

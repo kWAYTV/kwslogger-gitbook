@@ -2,10 +2,6 @@
 
 
 
-{% hint style="info" %}
-This assumes you've already created a logger instance called _logger_.
-{% endhint %}
-
 ## Filter your logs with built-in log levels
 
 Filter out your logs with the built in log levels, anything above the level you set on the logger instace won't be logged nor written to the file.
